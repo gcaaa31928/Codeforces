@@ -14,6 +14,7 @@ unordered_set<int> s;
 
 
 int main() {
+
 //    freopen("input.txt", "r", stdin);
     scanf("%d %d %d", &n, &m, &k);
     for (int i = 0; i < m; i++) {
